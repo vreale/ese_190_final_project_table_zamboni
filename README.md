@@ -1,1 +1,2 @@
 # ese_190_final_project_table_zamboni
+The two directories contain code for the table zamboni to function with or without bluetooth. The directory 'ese_190_final_proj' contains code that does not function with bluetooth. The other directory can be used for bluetooth compatibility to stop and start the halbot; however, there is a large delay in receiving distance information, so it does not reliably stop at the edge of tables.
